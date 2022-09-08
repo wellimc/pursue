@@ -1,0 +1,8 @@
+chrome retry log
+RL_0
+
+Traceback (most recent call last):
+  File "run_video.py", line 5, in <module>
+    from selenium import webdriver
+ModuleNotFoundError: No module named 'selenium'
+

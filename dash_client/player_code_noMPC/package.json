@@ -1,0 +1,37 @@
+{
+  "name": "dashjs",
+  "version": "3.1.0",
+  "devDependencies": {
+    "grunt": "^1.5.1",
+    "grunt-contrib-connect": "~3.0.0",
+    "grunt-contrib-jasmine": "^2.2.0",
+    "grunt-contrib-jshint": "~3.0.0",
+    "grunt-contrib-uglify": "~5.1.0",
+    "grunt-contrib-watch": "~1.1.0",
+    "jasmine-sinon": "~0.3.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dash-Industry-Forum/dash.js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Dash-Industry-Forum/dash.js/issues"
+  },
+  "homepage": "https://github.com/Dash-Industry-Forum/dash.js#readme",
+  "main": "Gruntfile.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "grunt-contrib-connect": "^3.0.0",
+    "grunt-contrib-jshint": "^2.2.0",
+    "grunt-contrib-uglify": "^5.1.0",
+    "grunt-contrib-watch": "^1.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

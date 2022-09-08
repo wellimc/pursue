@@ -1,0 +1,12 @@
+QoS_bandwidth	QoS_delay	QoS_jitter	V_content	V_complexity-class	QoA_resolution	Mobility	QoD_carte-class	MOS
+
+
+
+Client
+2560	0.395	0.07	1	0	4	2	1	480
+
+Client 2
+2048	0.334	0.028	2	2	240	0	2	360
+
+Client 3 
+1536	0.407	0.063	1	0	2	40	3	144

@@ -1,0 +1,1662 @@
+1649536541136	geckodriver	INFO	Listening on 127.0.0.1:54685
+1649536541520	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54686" "-foreground" "-no-remote" "-profile" "/var/folders/9q/lpwrq5l50g30h13lqz5lfr3m0000gn/T/rust_mozprofileXZUjZF"
+1649536541961	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/9q/lpwrq5l50g30h13lqz5lfr3m0000gn/T/rust_mozprofileXZUjZF/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:54686/devtools/browser/6ef2ef89-94e8-4e4d-a916-f21e24c1286a
+1649536543904	Marionette	INFO	Listening on port 54695
+1649536544020	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 12005, MediaDecoderStateMachine #1] WARNING: Decoder=11f160000 Decode error: NS_ERROR_DOM_MEDIA_CANCELED (0x806e000a) - RefPtr<MediaSourceTrackDemuxer::SeekPromise> mozilla::MediaSourceTrackDemuxer::DoSeek(const mozilla::media::TimeUnit &): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3577
+1649537096868	Marionette	INFO	Stopped listening on port 53318
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1649537100059	Marionette	INFO	Stopped listening on port 54695
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1649537238839	geckodriver	INFO	Listening on 127.0.0.1:58228
+1649537239201	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58229" "-foreground" "-no-remote" "-profile" "/var/folders/9q/lpwrq5l50g30h13lqz5lfr3m0000gn/T/rust_mozprofiledmhklP"
+1649537239734	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/9q/lpwrq5l50g30h13lqz5lfr3m0000gn/T/rust_mozprofiledmhklP/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:58229/devtools/browser/c3b711d4-c288-4320-b596-2df0a346176a
+1649537242334	Marionette	INFO	Listening on port 58236
+1649537242403	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1649537338620	geckodriver	INFO	Listening on 127.0.0.1:58717
+1649537339020	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58718" "-foreground" "-no-remote" "-profile" "/var/folders/9q/lpwrq5l50g30h13lqz5lfr3m0000gn/T/rust_mozprofileaVsDcI"
+1649537339458	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/9q/lpwrq5l50g30h13lqz5lfr3m0000gn/T/rust_mozprofileaVsDcI/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:58718/devtools/browser/238be604-14a7-457d-b0d0-6026c5304d9e
+1649537341369	Marionette	INFO	Listening on port 58729
+1649537341399	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8080/dash.all.min.js, line 6: NetworkError: A network error occurred.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1649537405259	geckodriver	INFO	Listening on 127.0.0.1:59058
+1649537405662	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59059" "-foreground" "-no-remote" "-profile" "/var/folders/9q/lpwrq5l50g30h13lqz5lfr3m0000gn/T/rust_mozprofilevIs5Zj"
+1649537406110	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/9q/lpwrq5l50g30h13lqz5lfr3m0000gn/T/rust_mozprofilevIs5Zj/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:59059/devtools/browser/1d136f1f-71e5-49a4-9eb5-64e9fe70efb0
+1649537408103	Marionette	INFO	Listening on port 59070
+1649537408155	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8080/dash.all.min.js, line 6: NetworkError: A network error occurred.
+Exiting due to channel error.
+Exiting due to channel error.
+1649537556194	geckodriver	INFO	Listening on 127.0.0.1:59766
+1649537556599	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59767" "-foreground" "-no-remote" "-profile" "/var/folders/9q/lpwrq5l50g30h13lqz5lfr3m0000gn/T/rust_mozprofilew4pLX8"
+1649537557065	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/9q/lpwrq5l50g30h13lqz5lfr3m0000gn/T/rust_mozprofilew4pLX8/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:59767/devtools/browser/3c8351d7-8d77-4987-a406-4ea4fec941f7
+1649537559030	Marionette	INFO	Listening on port 59775
+1649537559092	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://localhost:8080/dash.all.min.js, line 6: NetworkError: A network error occurred.
+JavaScript error: http://ec2-3-249-33-251.eu-west-1.compute.amazonaws.com/dash.all.min.js, line 6: NetworkError: A network error occurred.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/VZx5lKL-R1DYt4uczQuO7ewneocOxZLDwOE_DB7Gp_E.js line 1 > eval line 5427 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: http://ec2-3-249-33-251.eu-west-1.compute.amazonaws.com/dash.all.min.js, line 6: NetworkError: A network error occurred.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: http://ec2-3-249-33-251.eu-west-1.compute.amazonaws.com/dash.all.min.js, line 6: NetworkError: A network error occurred.
+JavaScript error: http://ec2-3-249-33-251.eu-west-1.compute.amazonaws.com/dash.all.min.js, line 6: NetworkError: A network error occurred.
+JavaScript error: http://ec2-3-249-33-251.eu-west-1.compute.amazonaws.com/dash.all.min.js, line 6: NetworkError: A network error occurred.
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1362: TypeError: window is undefined
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 420: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: unwatch :: line 1710"  data: no]
+Stack: unwatch@resource://devtools/server/actors/targets/window-global.js:1710:28
+_unwatchDocShell@resource://devtools/server/actors/targets/window-global.js:799:30
+destroy@resource://devtools/server/actors/targets/window-global.js:681:12
+module.exports/proto.destroy@resource://devtools/server/actors/targets/target-actor-mixin.js:253:30
+detach/<@resource://devtools/server/actors/targets/window-global.js:1129:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1710, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+_windowReady@resource://devtools/server/actors/targets/window-global.js:1409:24
+watch@resource://devtools/server/actors/targets/window-global.js:1684:25
+_onDocShellCreated/<@resource://devtools/server/actors/targets/window-global.js:954:32
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.onWindowCreated threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+_windowReady@resource://devtools/server/actors/targets/window-global.js:1409:24
+DebuggerProgressListener.prototype.onWindowCreated<@resource://devtools/server/actors/targets/window-global.js:1790:23
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/server/actors/targets/window-global.js:1886:20
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+_willNavigate@resource://devtools/server/actors/targets/window-global.js:1477:22
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/server/actors/targets/window-global.js:1891:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+get originalWindow@resource://devtools/server/actors/targets/window-global.js:494:5
+_docShellToWindow@resource://devtools/server/actors/targets/window-global.js:1033:7
+_docShellsToWindows/<@resource://devtools/server/actors/targets/window-global.js:1053:29
+_docShellsToWindows@resource://devtools/server/actors/targets/window-global.js:1053:8
+_notifyDocShellsUpdate@resource://devtools/server/actors/targets/window-global.js:1063:26
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/server/actors/targets/window-global.js:1883:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+_navigate@resource://devtools/server/actors/targets/window-global.js:1536:24
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/server/actors/targets/window-global.js:1926:27
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+get originalWindow@resource://devtools/server/actors/targets/window-global.js:494:5
+_docShellToWindow@resource://devtools/server/actors/targets/window-global.js:1033:7
+_docShellsToWindows/<@resource://devtools/server/actors/targets/window-global.js:1053:29
+_docShellsToWindows@resource://devtools/server/actors/targets/window-global.js:1053:8
+_notifyDocShellsUpdate@resource://devtools/server/actors/targets/window-global.js:1063:26
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/server/actors/targets/window-global.js:1883:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.onWindowCreated threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+_windowReady@resource://devtools/server/actors/targets/window-global.js:1409:24
+DebuggerProgressListener.prototype.onWindowCreated<@resource://devtools/server/actors/targets/window-global.js:1790:23
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 420, column: 0
+console.error: ({})
+console.error: (new TypeError("this.transport is null", "resource://devtools/server/devtools-server-connection.js", 99))
+TypeError: this.transport is null: send@resource://devtools/server/devtools-server-connection.js:99:5
+_sendEvent@resource://devtools/shared/protocol/Actor.js:72:15
+initialize/<@resource://devtools/shared/protocol/Actor.js:46:16
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+_notifyDocShellDestroy@resource://devtools/server/actors/targets/window-global.js:1088:10
+_onDocShellDestroy@resource://devtools/server/actors/targets/window-global.js:968:10
+parentProcessTargetPrototype.observe@resource://devtools/server/actors/targets/parent-process.js:140:10
+
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 420: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]
+console.error: (new TypeError("this.transport is null", "resource://devtools/server/devtools-server-connection.js", 99))
+TypeError: this.transport is null: send@resource://devtools/server/devtools-server-connection.js:99:5
+_sendEvent@resource://devtools/shared/protocol/Actor.js:72:15
+initialize/<@resource://devtools/shared/protocol/Actor.js:46:16
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+_notifyDocShellDestroy@resource://devtools/server/actors/targets/window-global.js:1088:10
+_onDocShellDestroy@resource://devtools/server/actors/targets/window-global.js:968:10
+parentProcessTargetPrototype.observe@resource://devtools/server/actors/targets/parent-process.js:140:10
+
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 420: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]
+1649569752114	Sync.ErrorHandler	ERROR	Sync encountered a login error
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+_windowReady@resource://devtools/server/actors/targets/window-global.js:1409:24
+watch@resource://devtools/server/actors/targets/window-global.js:1684:25
+_onDocShellCreated/<@resource://devtools/server/actors/targets/window-global.js:954:32
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.onWindowCreated threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+_windowReady@resource://devtools/server/actors/targets/window-global.js:1409:24
+DebuggerProgressListener.prototype.onWindowCreated<@resource://devtools/server/actors/targets/window-global.js:1790:23
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/server/actors/targets/window-global.js:1886:20
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+_willNavigate@resource://devtools/server/actors/targets/window-global.js:1477:22
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/server/actors/targets/window-global.js:1891:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+get originalWindow@resource://devtools/server/actors/targets/window-global.js:494:5
+_docShellToWindow@resource://devtools/server/actors/targets/window-global.js:1033:7
+_docShellsToWindows/<@resource://devtools/server/actors/targets/window-global.js:1053:29
+_docShellsToWindows@resource://devtools/server/actors/targets/window-global.js:1053:8
+_notifyDocShellsUpdate@resource://devtools/server/actors/targets/window-global.js:1063:26
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/server/actors/targets/window-global.js:1883:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+_navigate@resource://devtools/server/actors/targets/window-global.js:1536:24
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/server/actors/targets/window-global.js:1926:27
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+get originalWindow@resource://devtools/server/actors/targets/window-global.js:494:5
+_docShellToWindow@resource://devtools/server/actors/targets/window-global.js:1033:7
+_docShellsToWindows/<@resource://devtools/server/actors/targets/window-global.js:1053:29
+_docShellsToWindows@resource://devtools/server/actors/targets/window-global.js:1053:8
+_notifyDocShellsUpdate@resource://devtools/server/actors/targets/window-global.js:1063:26
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/server/actors/targets/window-global.js:1883:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.onWindowCreated threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+_windowReady@resource://devtools/server/actors/targets/window-global.js:1409:24
+DebuggerProgressListener.prototype.onWindowCreated<@resource://devtools/server/actors/targets/window-global.js:1790:23
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 420, column: 0
+console.error: ({})
+console.error: (new TypeError("this.transport is null", "resource://devtools/server/devtools-server-connection.js", 99))
+TypeError: this.transport is null: send@resource://devtools/server/devtools-server-connection.js:99:5
+_sendEvent@resource://devtools/shared/protocol/Actor.js:72:15
+initialize/<@resource://devtools/shared/protocol/Actor.js:46:16
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+_notifyDocShellDestroy@resource://devtools/server/actors/targets/window-global.js:1088:10
+_onDocShellDestroy@resource://devtools/server/actors/targets/window-global.js:968:10
+parentProcessTargetPrototype.observe@resource://devtools/server/actors/targets/parent-process.js:140:10
+
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 420: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]
+console.error: (new TypeError("this.transport is null", "resource://devtools/server/devtools-server-connection.js", 99))
+TypeError: this.transport is null: send@resource://devtools/server/devtools-server-connection.js:99:5
+_sendEvent@resource://devtools/shared/protocol/Actor.js:72:15
+initialize/<@resource://devtools/shared/protocol/Actor.js:46:16
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+_notifyDocShellDestroy@resource://devtools/server/actors/targets/window-global.js:1088:10
+_onDocShellDestroy@resource://devtools/server/actors/targets/window-global.js:968:10
+parentProcessTargetPrototype.observe@resource://devtools/server/actors/targets/parent-process.js:140:10
+
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 420: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+_windowReady@resource://devtools/server/actors/targets/window-global.js:1409:24
+watch@resource://devtools/server/actors/targets/window-global.js:1684:25
+_onDocShellCreated/<@resource://devtools/server/actors/targets/window-global.js:954:32
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.onWindowCreated threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+_windowReady@resource://devtools/server/actors/targets/window-global.js:1409:24
+DebuggerProgressListener.prototype.onWindowCreated<@resource://devtools/server/actors/targets/window-global.js:1790:23
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/server/actors/targets/window-global.js:1886:20
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+_willNavigate@resource://devtools/server/actors/targets/window-global.js:1477:22
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/server/actors/targets/window-global.js:1891:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+get originalWindow@resource://devtools/server/actors/targets/window-global.js:494:5
+_docShellToWindow@resource://devtools/server/actors/targets/window-global.js:1033:7
+_docShellsToWindows/<@resource://devtools/server/actors/targets/window-global.js:1053:29
+_docShellsToWindows@resource://devtools/server/actors/targets/window-global.js:1053:8
+_notifyDocShellsUpdate@resource://devtools/server/actors/targets/window-global.js:1063:26
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/server/actors/targets/window-global.js:1883:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+_navigate@resource://devtools/server/actors/targets/window-global.js:1536:24
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/server/actors/targets/window-global.js:1926:27
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+get originalWindow@resource://devtools/server/actors/targets/window-global.js:494:5
+_docShellToWindow@resource://devtools/server/actors/targets/window-global.js:1033:7
+_docShellsToWindows/<@resource://devtools/server/actors/targets/window-global.js:1053:29
+_docShellsToWindows@resource://devtools/server/actors/targets/window-global.js:1053:8
+_notifyDocShellsUpdate@resource://devtools/server/actors/targets/window-global.js:1063:26
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/server/actors/targets/window-global.js:1883:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.onWindowCreated threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+_windowReady@resource://devtools/server/actors/targets/window-global.js:1409:24
+DebuggerProgressListener.prototype.onWindowCreated<@resource://devtools/server/actors/targets/window-global.js:1790:23
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 420, column: 0
+console.error: ({})
+console.error: (new TypeError("this.transport is null", "resource://devtools/server/devtools-server-connection.js", 99))
+TypeError: this.transport is null: send@resource://devtools/server/devtools-server-connection.js:99:5
+_sendEvent@resource://devtools/shared/protocol/Actor.js:72:15
+initialize/<@resource://devtools/shared/protocol/Actor.js:46:16
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+_notifyDocShellDestroy@resource://devtools/server/actors/targets/window-global.js:1088:10
+_onDocShellDestroy@resource://devtools/server/actors/targets/window-global.js:968:10
+parentProcessTargetPrototype.observe@resource://devtools/server/actors/targets/parent-process.js:140:10
+
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 420: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]
+console.error: (new TypeError("this.transport is null", "resource://devtools/server/devtools-server-connection.js", 99))
+TypeError: this.transport is null: send@resource://devtools/server/devtools-server-connection.js:99:5
+_sendEvent@resource://devtools/shared/protocol/Actor.js:72:15
+initialize/<@resource://devtools/shared/protocol/Actor.js:46:16
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+_notifyDocShellDestroy@resource://devtools/server/actors/targets/window-global.js:1088:10
+_onDocShellDestroy@resource://devtools/server/actors/targets/window-global.js:968:10
+parentProcessTargetPrototype.observe@resource://devtools/server/actors/targets/parent-process.js:140:10
+
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 420: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+_windowReady@resource://devtools/server/actors/targets/window-global.js:1409:24
+watch@resource://devtools/server/actors/targets/window-global.js:1684:25
+_onDocShellCreated/<@resource://devtools/server/actors/targets/window-global.js:954:32
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.onWindowCreated threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+_windowReady@resource://devtools/server/actors/targets/window-global.js:1409:24
+DebuggerProgressListener.prototype.onWindowCreated<@resource://devtools/server/actors/targets/window-global.js:1790:23
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/server/actors/targets/window-global.js:1886:20
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+_willNavigate@resource://devtools/server/actors/targets/window-global.js:1477:22
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/server/actors/targets/window-global.js:1891:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+get originalWindow@resource://devtools/server/actors/targets/window-global.js:494:5
+_docShellToWindow@resource://devtools/server/actors/targets/window-global.js:1033:7
+_docShellsToWindows/<@resource://devtools/server/actors/targets/window-global.js:1053:29
+_docShellsToWindows@resource://devtools/server/actors/targets/window-global.js:1053:8
+_notifyDocShellsUpdate@resource://devtools/server/actors/targets/window-global.js:1063:26
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/server/actors/targets/window-global.js:1883:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+_navigate@resource://devtools/server/actors/targets/window-global.js:1536:24
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/server/actors/targets/window-global.js:1926:27
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+get originalWindow@resource://devtools/server/actors/targets/window-global.js:494:5
+_docShellToWindow@resource://devtools/server/actors/targets/window-global.js:1033:7
+_docShellsToWindows/<@resource://devtools/server/actors/targets/window-global.js:1053:29
+_docShellsToWindows@resource://devtools/server/actors/targets/window-global.js:1053:8
+_notifyDocShellsUpdate@resource://devtools/server/actors/targets/window-global.js:1063:26
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/server/actors/targets/window-global.js:1883:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.onWindowCreated threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+_windowReady@resource://devtools/server/actors/targets/window-global.js:1409:24
+DebuggerProgressListener.prototype.onWindowCreated<@resource://devtools/server/actors/targets/window-global.js:1790:23
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 420, column: 0
+console.error: ({})
+console.error: (new TypeError("this.transport is null", "resource://devtools/server/devtools-server-connection.js", 99))
+TypeError: this.transport is null: send@resource://devtools/server/devtools-server-connection.js:99:5
+_sendEvent@resource://devtools/shared/protocol/Actor.js:72:15
+initialize/<@resource://devtools/shared/protocol/Actor.js:46:16
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+_notifyDocShellDestroy@resource://devtools/server/actors/targets/window-global.js:1088:10
+_onDocShellDestroy@resource://devtools/server/actors/targets/window-global.js:968:10
+parentProcessTargetPrototype.observe@resource://devtools/server/actors/targets/parent-process.js:140:10
+
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 420: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]
+console.error: (new TypeError("this.transport is null", "resource://devtools/server/devtools-server-connection.js", 99))
+TypeError: this.transport is null: send@resource://devtools/server/devtools-server-connection.js:99:5
+_sendEvent@resource://devtools/shared/protocol/Actor.js:72:15
+initialize/<@resource://devtools/shared/protocol/Actor.js:46:16
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+_notifyDocShellDestroy@resource://devtools/server/actors/targets/window-global.js:1088:10
+_onDocShellDestroy@resource://devtools/server/actors/targets/window-global.js:968:10
+parentProcessTargetPrototype.observe@resource://devtools/server/actors/targets/parent-process.js:140:10
+
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 420: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+_windowReady@resource://devtools/server/actors/targets/window-global.js:1409:24
+watch@resource://devtools/server/actors/targets/window-global.js:1684:25
+_onDocShellCreated/<@resource://devtools/server/actors/targets/window-global.js:954:32
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.onWindowCreated threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+_windowReady@resource://devtools/server/actors/targets/window-global.js:1409:24
+DebuggerProgressListener.prototype.onWindowCreated<@resource://devtools/server/actors/targets/window-global.js:1790:23
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/server/actors/targets/window-global.js:1886:20
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+_willNavigate@resource://devtools/server/actors/targets/window-global.js:1477:22
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/server/actors/targets/window-global.js:1891:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+get originalWindow@resource://devtools/server/actors/targets/window-global.js:494:5
+_docShellToWindow@resource://devtools/server/actors/targets/window-global.js:1033:7
+_docShellsToWindows/<@resource://devtools/server/actors/targets/window-global.js:1053:29
+_docShellsToWindows@resource://devtools/server/actors/targets/window-global.js:1053:8
+_notifyDocShellsUpdate@resource://devtools/server/actors/targets/window-global.js:1063:26
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/server/actors/targets/window-global.js:1883:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+_navigate@resource://devtools/server/actors/targets/window-global.js:1536:24
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/server/actors/targets/window-global.js:1926:27
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+get originalWindow@resource://devtools/server/actors/targets/window-global.js:494:5
+_docShellToWindow@resource://devtools/server/actors/targets/window-global.js:1033:7
+_docShellsToWindows/<@resource://devtools/server/actors/targets/window-global.js:1053:29
+_docShellsToWindows@resource://devtools/server/actors/targets/window-global.js:1053:8
+_notifyDocShellsUpdate@resource://devtools/server/actors/targets/window-global.js:1063:26
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/server/actors/targets/window-global.js:1883:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.onWindowCreated threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+_windowReady@resource://devtools/server/actors/targets/window-global.js:1409:24
+DebuggerProgressListener.prototype.onWindowCreated<@resource://devtools/server/actors/targets/window-global.js:1790:23
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 420, column: 0
+console.error: ({})
+console.error: (new TypeError("this.transport is null", "resource://devtools/server/devtools-server-connection.js", 99))
+TypeError: this.transport is null: send@resource://devtools/server/devtools-server-connection.js:99:5
+_sendEvent@resource://devtools/shared/protocol/Actor.js:72:15
+initialize/<@resource://devtools/shared/protocol/Actor.js:46:16
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+_notifyDocShellDestroy@resource://devtools/server/actors/targets/window-global.js:1088:10
+_onDocShellDestroy@resource://devtools/server/actors/targets/window-global.js:968:10
+parentProcessTargetPrototype.observe@resource://devtools/server/actors/targets/parent-process.js:140:10
+
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 420: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]
+console.error: (new TypeError("this.transport is null", "resource://devtools/server/devtools-server-connection.js", 99))
+TypeError: this.transport is null: send@resource://devtools/server/devtools-server-connection.js:99:5
+_sendEvent@resource://devtools/shared/protocol/Actor.js:72:15
+initialize/<@resource://devtools/shared/protocol/Actor.js:46:16
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+_notifyDocShellDestroy@resource://devtools/server/actors/targets/window-global.js:1088:10
+_onDocShellDestroy@resource://devtools/server/actors/targets/window-global.js:968:10
+parentProcessTargetPrototype.observe@resource://devtools/server/actors/targets/parent-process.js:140:10
+
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 420: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]
+1649656918016	Sync.ErrorHandler	ERROR	Sync encountered a login error
+1649673582243	Sync.ErrorHandler	ERROR	Sync encountered a login error
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+_windowReady@resource://devtools/server/actors/targets/window-global.js:1409:24
+watch@resource://devtools/server/actors/targets/window-global.js:1684:25
+_onDocShellCreated/<@resource://devtools/server/actors/targets/window-global.js:954:32
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.onWindowCreated threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+_windowReady@resource://devtools/server/actors/targets/window-global.js:1409:24
+DebuggerProgressListener.prototype.onWindowCreated<@resource://devtools/server/actors/targets/window-global.js:1790:23
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/server/actors/targets/window-global.js:1886:20
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+_willNavigate@resource://devtools/server/actors/targets/window-global.js:1477:22
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/server/actors/targets/window-global.js:1891:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+get originalWindow@resource://devtools/server/actors/targets/window-global.js:494:5
+_docShellToWindow@resource://devtools/server/actors/targets/window-global.js:1033:7
+_docShellsToWindows/<@resource://devtools/server/actors/targets/window-global.js:1053:29
+_docShellsToWindows@resource://devtools/server/actors/targets/window-global.js:1053:8
+_notifyDocShellsUpdate@resource://devtools/server/actors/targets/window-global.js:1063:26
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/server/actors/targets/window-global.js:1883:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+_navigate@resource://devtools/server/actors/targets/window-global.js:1536:24
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/server/actors/targets/window-global.js:1926:27
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+get originalWindow@resource://devtools/server/actors/targets/window-global.js:494:5
+_docShellToWindow@resource://devtools/server/actors/targets/window-global.js:1033:7
+_docShellsToWindows/<@resource://devtools/server/actors/targets/window-global.js:1053:29
+_docShellsToWindows@resource://devtools/server/actors/targets/window-global.js:1053:8
+_notifyDocShellsUpdate@resource://devtools/server/actors/targets/window-global.js:1063:26
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/server/actors/targets/window-global.js:1883:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.onWindowCreated threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+_windowReady@resource://devtools/server/actors/targets/window-global.js:1409:24
+DebuggerProgressListener.prototype.onWindowCreated<@resource://devtools/server/actors/targets/window-global.js:1790:23
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 420, column: 0
+console.error: ({})
+console.error: (new TypeError("this.transport is null", "resource://devtools/server/devtools-server-connection.js", 99))
+TypeError: this.transport is null: send@resource://devtools/server/devtools-server-connection.js:99:5
+_sendEvent@resource://devtools/shared/protocol/Actor.js:72:15
+initialize/<@resource://devtools/shared/protocol/Actor.js:46:16
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+_notifyDocShellDestroy@resource://devtools/server/actors/targets/window-global.js:1088:10
+_onDocShellDestroy@resource://devtools/server/actors/targets/window-global.js:968:10
+parentProcessTargetPrototype.observe@resource://devtools/server/actors/targets/parent-process.js:140:10
+
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 420: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]
+console.error: (new TypeError("this.transport is null", "resource://devtools/server/devtools-server-connection.js", 99))
+TypeError: this.transport is null: send@resource://devtools/server/devtools-server-connection.js:99:5
+_sendEvent@resource://devtools/shared/protocol/Actor.js:72:15
+initialize/<@resource://devtools/shared/protocol/Actor.js:46:16
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+_notifyDocShellDestroy@resource://devtools/server/actors/targets/window-global.js:1088:10
+_onDocShellDestroy@resource://devtools/server/actors/targets/window-global.js:968:10
+parentProcessTargetPrototype.observe@resource://devtools/server/actors/targets/parent-process.js:140:10
+
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 420: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+_windowReady@resource://devtools/server/actors/targets/window-global.js:1409:24
+watch@resource://devtools/server/actors/targets/window-global.js:1684:25
+_onDocShellCreated/<@resource://devtools/server/actors/targets/window-global.js:954:32
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.onWindowCreated threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+_windowReady@resource://devtools/server/actors/targets/window-global.js:1409:24
+DebuggerProgressListener.prototype.onWindowCreated<@resource://devtools/server/actors/targets/window-global.js:1790:23
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/server/actors/targets/window-global.js:1886:20
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+_willNavigate@resource://devtools/server/actors/targets/window-global.js:1477:22
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/server/actors/targets/window-global.js:1891:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+get originalWindow@resource://devtools/server/actors/targets/window-global.js:494:5
+_docShellToWindow@resource://devtools/server/actors/targets/window-global.js:1033:7
+_docShellsToWindows/<@resource://devtools/server/actors/targets/window-global.js:1053:29
+_docShellsToWindows@resource://devtools/server/actors/targets/window-global.js:1053:8
+_notifyDocShellsUpdate@resource://devtools/server/actors/targets/window-global.js:1063:26
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/server/actors/targets/window-global.js:1883:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+_navigate@resource://devtools/server/actors/targets/window-global.js:1536:24
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/server/actors/targets/window-global.js:1926:27
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+get originalWindow@resource://devtools/server/actors/targets/window-global.js:494:5
+_docShellToWindow@resource://devtools/server/actors/targets/window-global.js:1033:7
+_docShellsToWindows/<@resource://devtools/server/actors/targets/window-global.js:1053:29
+_docShellsToWindows@resource://devtools/server/actors/targets/window-global.js:1053:8
+_notifyDocShellsUpdate@resource://devtools/server/actors/targets/window-global.js:1063:26
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/server/actors/targets/window-global.js:1883:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.onWindowCreated threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+_windowReady@resource://devtools/server/actors/targets/window-global.js:1409:24
+DebuggerProgressListener.prototype.onWindowCreated<@resource://devtools/server/actors/targets/window-global.js:1790:23
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 420, column: 0
+console.error: ({})
+console.error: (new TypeError("this.transport is null", "resource://devtools/server/devtools-server-connection.js", 99))
+TypeError: this.transport is null: send@resource://devtools/server/devtools-server-connection.js:99:5
+_sendEvent@resource://devtools/shared/protocol/Actor.js:72:15
+initialize/<@resource://devtools/shared/protocol/Actor.js:46:16
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+_notifyDocShellDestroy@resource://devtools/server/actors/targets/window-global.js:1088:10
+_onDocShellDestroy@resource://devtools/server/actors/targets/window-global.js:968:10
+parentProcessTargetPrototype.observe@resource://devtools/server/actors/targets/parent-process.js:140:10
+
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 420: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]
+console.error: (new TypeError("this.transport is null", "resource://devtools/server/devtools-server-connection.js", 99))
+TypeError: this.transport is null: send@resource://devtools/server/devtools-server-connection.js:99:5
+_sendEvent@resource://devtools/shared/protocol/Actor.js:72:15
+initialize/<@resource://devtools/shared/protocol/Actor.js:46:16
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+_notifyDocShellDestroy@resource://devtools/server/actors/targets/window-global.js:1088:10
+_onDocShellDestroy@resource://devtools/server/actors/targets/window-global.js:968:10
+parentProcessTargetPrototype.observe@resource://devtools/server/actors/targets/parent-process.js:140:10
+
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 420: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+_windowReady@resource://devtools/server/actors/targets/window-global.js:1409:24
+watch@resource://devtools/server/actors/targets/window-global.js:1684:25
+_onDocShellCreated/<@resource://devtools/server/actors/targets/window-global.js:954:32
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.onWindowCreated threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+_windowReady@resource://devtools/server/actors/targets/window-global.js:1409:24
+DebuggerProgressListener.prototype.onWindowCreated<@resource://devtools/server/actors/targets/window-global.js:1790:23
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/server/actors/targets/window-global.js:1886:20
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+_willNavigate@resource://devtools/server/actors/targets/window-global.js:1477:22
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/server/actors/targets/window-global.js:1891:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+get originalWindow@resource://devtools/server/actors/targets/window-global.js:494:5
+_docShellToWindow@resource://devtools/server/actors/targets/window-global.js:1033:7
+_docShellsToWindows/<@resource://devtools/server/actors/targets/window-global.js:1053:29
+_docShellsToWindows@resource://devtools/server/actors/targets/window-global.js:1053:8
+_notifyDocShellsUpdate@resource://devtools/server/actors/targets/window-global.js:1063:26
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/server/actors/targets/window-global.js:1883:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+_navigate@resource://devtools/server/actors/targets/window-global.js:1536:24
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/server/actors/targets/window-global.js:1926:27
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+get originalWindow@resource://devtools/server/actors/targets/window-global.js:494:5
+_docShellToWindow@resource://devtools/server/actors/targets/window-global.js:1033:7
+_docShellsToWindows/<@resource://devtools/server/actors/targets/window-global.js:1053:29
+_docShellsToWindows@resource://devtools/server/actors/targets/window-global.js:1053:8
+_notifyDocShellsUpdate@resource://devtools/server/actors/targets/window-global.js:1063:26
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/server/actors/targets/window-global.js:1883:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.onWindowCreated threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+_windowReady@resource://devtools/server/actors/targets/window-global.js:1409:24
+DebuggerProgressListener.prototype.onWindowCreated<@resource://devtools/server/actors/targets/window-global.js:1790:23
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 420, column: 0
+console.error: ({})
+console.error: (new TypeError("this.transport is null", "resource://devtools/server/devtools-server-connection.js", 99))
+TypeError: this.transport is null: send@resource://devtools/server/devtools-server-connection.js:99:5
+_sendEvent@resource://devtools/shared/protocol/Actor.js:72:15
+initialize/<@resource://devtools/shared/protocol/Actor.js:46:16
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+_notifyDocShellDestroy@resource://devtools/server/actors/targets/window-global.js:1088:10
+_onDocShellDestroy@resource://devtools/server/actors/targets/window-global.js:968:10
+parentProcessTargetPrototype.observe@resource://devtools/server/actors/targets/parent-process.js:140:10
+
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 420: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]
+console.error: (new TypeError("this.transport is null", "resource://devtools/server/devtools-server-connection.js", 99))
+TypeError: this.transport is null: send@resource://devtools/server/devtools-server-connection.js:99:5
+_sendEvent@resource://devtools/shared/protocol/Actor.js:72:15
+initialize/<@resource://devtools/shared/protocol/Actor.js:46:16
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+_notifyDocShellDestroy@resource://devtools/server/actors/targets/window-global.js:1088:10
+_onDocShellDestroy@resource://devtools/server/actors/targets/window-global.js:968:10
+parentProcessTargetPrototype.observe@resource://devtools/server/actors/targets/parent-process.js:140:10
+
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 420: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+_windowReady@resource://devtools/server/actors/targets/window-global.js:1409:24
+watch@resource://devtools/server/actors/targets/window-global.js:1684:25
+_onDocShellCreated/<@resource://devtools/server/actors/targets/window-global.js:954:32
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.onWindowCreated threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+_windowReady@resource://devtools/server/actors/targets/window-global.js:1409:24
+DebuggerProgressListener.prototype.onWindowCreated<@resource://devtools/server/actors/targets/window-global.js:1790:23
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/server/actors/targets/window-global.js:1886:20
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+_willNavigate@resource://devtools/server/actors/targets/window-global.js:1477:22
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/server/actors/targets/window-global.js:1891:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+get originalWindow@resource://devtools/server/actors/targets/window-global.js:494:5
+_docShellToWindow@resource://devtools/server/actors/targets/window-global.js:1033:7
+_docShellsToWindows/<@resource://devtools/server/actors/targets/window-global.js:1053:29
+_docShellsToWindows@resource://devtools/server/actors/targets/window-global.js:1053:8
+_notifyDocShellsUpdate@resource://devtools/server/actors/targets/window-global.js:1063:26
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/server/actors/targets/window-global.js:1883:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+_navigate@resource://devtools/server/actors/targets/window-global.js:1536:24
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/server/actors/targets/window-global.js:1926:27
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+get originalWindow@resource://devtools/server/actors/targets/window-global.js:494:5
+_docShellToWindow@resource://devtools/server/actors/targets/window-global.js:1033:7
+_docShellsToWindows/<@resource://devtools/server/actors/targets/window-global.js:1053:29
+_docShellsToWindows@resource://devtools/server/actors/targets/window-global.js:1053:8
+_notifyDocShellsUpdate@resource://devtools/server/actors/targets/window-global.js:1063:26
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/server/actors/targets/window-global.js:1883:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.onWindowCreated threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+_windowReady@resource://devtools/server/actors/targets/window-global.js:1409:24
+DebuggerProgressListener.prototype.onWindowCreated<@resource://devtools/server/actors/targets/window-global.js:1790:23
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 420, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+_windowReady@resource://devtools/server/actors/targets/window-global.js:1409:24
+watch@resource://devtools/server/actors/targets/window-global.js:1684:25
+_onDocShellCreated/<@resource://devtools/server/actors/targets/window-global.js:954:32
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.onWindowCreated threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+_windowReady@resource://devtools/server/actors/targets/window-global.js:1409:24
+DebuggerProgressListener.prototype.onWindowCreated<@resource://devtools/server/actors/targets/window-global.js:1790:23
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/server/actors/targets/window-global.js:1886:20
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+_willNavigate@resource://devtools/server/actors/targets/window-global.js:1477:22
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/server/actors/targets/window-global.js:1891:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+get originalWindow@resource://devtools/server/actors/targets/window-global.js:494:5
+_docShellToWindow@resource://devtools/server/actors/targets/window-global.js:1033:7
+_docShellsToWindows/<@resource://devtools/server/actors/targets/window-global.js:1053:29
+_docShellsToWindows@resource://devtools/server/actors/targets/window-global.js:1053:8
+_notifyDocShellsUpdate@resource://devtools/server/actors/targets/window-global.js:1063:26
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/server/actors/targets/window-global.js:1883:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+_navigate@resource://devtools/server/actors/targets/window-global.js:1536:24
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/server/actors/targets/window-global.js:1926:27
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+get originalWindow@resource://devtools/server/actors/targets/window-global.js:494:5
+_docShellToWindow@resource://devtools/server/actors/targets/window-global.js:1033:7
+_docShellsToWindows/<@resource://devtools/server/actors/targets/window-global.js:1053:29
+_docShellsToWindows@resource://devtools/server/actors/targets/window-global.js:1053:8
+_notifyDocShellsUpdate@resource://devtools/server/actors/targets/window-global.js:1063:26
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/server/actors/targets/window-global.js:1883:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.onWindowCreated threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+_windowReady@resource://devtools/server/actors/targets/window-global.js:1409:24
+DebuggerProgressListener.prototype.onWindowCreated<@resource://devtools/server/actors/targets/window-global.js:1790:23
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 420, column: 0
+console.error: ({})
+JavaScript error: http://192.168.1.13:8080/myindex_RL.html, line 14: ReferenceError: dashjs is not defined
+Handler function DebuggerProgressListener.prototype.onWindowCreated threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+_windowReady@resource://devtools/server/actors/targets/window-global.js:1409:24
+DebuggerProgressListener.prototype.onWindowCreated<@resource://devtools/server/actors/targets/window-global.js:1790:23
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+construct@chrome://global/content/elements/browser-custom-element.js:1003:13
+connectedCallback@chrome://global/content/elements/browser-custom-element.js:324:12
+_insertBrowser@chrome://browser/content/tabbrowser.js:2343:24
+addTab@chrome://browser/content/tabbrowser.js:2831:16
+loadOneTab@chrome://browser/content/tabbrowser.js:1709:22
+openLinkIn@chrome://browser/content/utilityOverlay.js:606:39
+openUILinkIn@chrome://browser/content/utilityOverlay.js:275:13
+openTrustedLinkIn@chrome://browser/content/utilityOverlay.js:192:15
+switchToTabHavingURI@chrome://browser/content/browser.js:8670:24
+openPreferences@chrome://browser/content/utilityOverlay.js:997:20
+oncommand@chrome://browser/content/browser.xhtml:1:1
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+_willNavigate@resource://devtools/server/actors/targets/window-global.js:1477:22
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/server/actors/targets/window-global.js:1891:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+_loadURI@chrome://browser/content/browser.js:1556:27
+addTab@chrome://browser/content/tabbrowser.js:2913:15
+loadOneTab@chrome://browser/content/tabbrowser.js:1709:22
+openLinkIn@chrome://browser/content/utilityOverlay.js:606:39
+openUILinkIn@chrome://browser/content/utilityOverlay.js:275:13
+openTrustedLinkIn@chrome://browser/content/utilityOverlay.js:192:15
+switchToTabHavingURI@chrome://browser/content/browser.js:8670:24
+openPreferences@chrome://browser/content/utilityOverlay.js:997:20
+oncommand@chrome://browser/content/browser.xhtml:1:1
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.onWindowCreated threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+_windowReady@resource://devtools/server/actors/targets/window-global.js:1409:24
+DebuggerProgressListener.prototype.onWindowCreated<@resource://devtools/server/actors/targets/window-global.js:1790:23
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.observe threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+_windowDestroyed@resource://devtools/server/actors/targets/window-global.js:1443:24
+DebuggerProgressListener.prototype.observe<@resource://devtools/server/actors/targets/window-global.js:1835:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.onWindowCreated threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+_windowReady@resource://devtools/server/actors/targets/window-global.js:1409:24
+DebuggerProgressListener.prototype.onWindowCreated<@resource://devtools/server/actors/targets/window-global.js:1790:23
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/server/actors/targets/window-global.js:1886:20
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+_willNavigate@resource://devtools/server/actors/targets/window-global.js:1477:22
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/server/actors/targets/window-global.js:1891:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.onWindowCreated threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+_windowReady@resource://devtools/server/actors/targets/window-global.js:1409:24
+DebuggerProgressListener.prototype.onWindowCreated<@resource://devtools/server/actors/targets/window-global.js:1790:23
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.observe threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+_windowDestroyed@resource://devtools/server/actors/targets/window-global.js:1443:24
+DebuggerProgressListener.prototype.observe<@resource://devtools/server/actors/targets/window-global.js:1835:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+get originalWindow@resource://devtools/server/actors/targets/window-global.js:494:5
+_docShellToWindow@resource://devtools/server/actors/targets/window-global.js:1033:7
+_docShellsToWindows/<@resource://devtools/server/actors/targets/window-global.js:1053:29
+_docShellsToWindows@resource://devtools/server/actors/targets/window-global.js:1053:8
+_notifyDocShellsUpdate@resource://devtools/server/actors/targets/window-global.js:1063:26
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/server/actors/targets/window-global.js:1883:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+_navigate@resource://devtools/server/actors/targets/window-global.js:1536:24
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/server/actors/targets/window-global.js:1926:27
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+get originalWindow@resource://devtools/server/actors/targets/window-global.js:494:5
+_docShellToWindow@resource://devtools/server/actors/targets/window-global.js:1033:7
+_docShellsToWindows/<@resource://devtools/server/actors/targets/window-global.js:1053:29
+_docShellsToWindows@resource://devtools/server/actors/targets/window-global.js:1053:8
+_notifyDocShellsUpdate@resource://devtools/server/actors/targets/window-global.js:1063:26
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/server/actors/targets/window-global.js:1883:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+_navigate@resource://devtools/server/actors/targets/window-global.js:1536:24
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/server/actors/targets/window-global.js:1926:27
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 420, column: 0
+console.error: ({})
+console.error: (new TypeError("this.transport is null", "resource://devtools/server/devtools-server-connection.js", 99))
+TypeError: this.transport is null: send@resource://devtools/server/devtools-server-connection.js:99:5
+_sendEvent@resource://devtools/shared/protocol/Actor.js:72:15
+initialize/<@resource://devtools/shared/protocol/Actor.js:46:16
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+_notifyDocShellDestroy@resource://devtools/server/actors/targets/window-global.js:1088:10
+_onDocShellDestroy@resource://devtools/server/actors/targets/window-global.js:968:10
+observe@resource://devtools/server/actors/targets/window-global.js:931:12
+parentProcessTargetPrototype.observe@resource://devtools/server/actors/targets/parent-process.js:130:45
+_endRemoveTab@chrome://browser/content/tabbrowser.js:4162:15
+on_transitionend@chrome://browser/content/tabbrowser-tabs.js:196:18
+handleEvent@chrome://browser/content/tabbrowser-tabs.js:1810:29
+
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 420: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]
+console.error: (new TypeError("this.transport is null", "resource://devtools/server/devtools-server-connection.js", 99))
+TypeError: this.transport is null: send@resource://devtools/server/devtools-server-connection.js:99:5
+_sendEvent@resource://devtools/shared/protocol/Actor.js:72:15
+initialize/<@resource://devtools/shared/protocol/Actor.js:46:16
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+_notifyDocShellDestroy@resource://devtools/server/actors/targets/window-global.js:1088:10
+_onDocShellDestroy@resource://devtools/server/actors/targets/window-global.js:968:10
+observe@resource://devtools/server/actors/targets/window-global.js:931:12
+parentProcessTargetPrototype.observe@resource://devtools/server/actors/targets/parent-process.js:130:45
+_endRemoveTab@chrome://browser/content/tabbrowser.js:4162:15
+on_transitionend@chrome://browser/content/tabbrowser-tabs.js:196:18
+handleEvent@chrome://browser/content/tabbrowser-tabs.js:1810:29
+
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 420: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]
+Handler function DebuggerProgressListener.prototype.observe threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+_windowDestroyed@resource://devtools/server/actors/targets/window-global.js:1443:24
+DebuggerProgressListener.prototype.observe<@resource://devtools/server/actors/targets/window-global.js:1835:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.observe threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+_windowDestroyed@resource://devtools/server/actors/targets/window-global.js:1443:24
+DebuggerProgressListener.prototype.observe<@resource://devtools/server/actors/targets/window-global.js:1835:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.onWindowCreated threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+_windowReady@resource://devtools/server/actors/targets/window-global.js:1409:24
+DebuggerProgressListener.prototype.onWindowCreated<@resource://devtools/server/actors/targets/window-global.js:1790:23
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/server/actors/targets/window-global.js:1886:20
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+create@resource://devtools/client/framework/toolbox-hosts.js:82:28
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+_willNavigate@resource://devtools/server/actors/targets/window-global.js:1477:22
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/server/actors/targets/window-global.js:1891:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+create@resource://devtools/client/framework/toolbox-hosts.js:82:28
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+_navigate@resource://devtools/server/actors/targets/window-global.js:1536:24
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/server/actors/targets/window-global.js:1926:27
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+create@resource://devtools/client/framework/toolbox-host-manager.js:124:23
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+_willNavigate@resource://devtools/server/actors/targets/window-global.js:1477:22
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/server/actors/targets/window-global.js:1891:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+create@resource://devtools/client/framework/toolbox-host-manager.js:124:23
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.onWindowCreated threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+_windowReady@resource://devtools/server/actors/targets/window-global.js:1409:24
+DebuggerProgressListener.prototype.onWindowCreated<@resource://devtools/server/actors/targets/window-global.js:1790:23
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.observe threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+_windowDestroyed@resource://devtools/server/actors/targets/window-global.js:1443:24
+DebuggerProgressListener.prototype.observe<@resource://devtools/server/actors/targets/window-global.js:1835:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+get originalWindow@resource://devtools/server/actors/targets/window-global.js:494:5
+_docShellToWindow@resource://devtools/server/actors/targets/window-global.js:1033:7
+_docShellsToWindows/<@resource://devtools/server/actors/targets/window-global.js:1053:29
+_docShellsToWindows@resource://devtools/server/actors/targets/window-global.js:1053:8
+_notifyDocShellsUpdate@resource://devtools/server/actors/targets/window-global.js:1063:26
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/server/actors/targets/window-global.js:1883:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+_navigate@resource://devtools/server/actors/targets/window-global.js:1536:24
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/server/actors/targets/window-global.js:1926:27
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.onWindowCreated threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+_windowReady@resource://devtools/server/actors/targets/window-global.js:1409:24
+DebuggerProgressListener.prototype.onWindowCreated<@resource://devtools/server/actors/targets/window-global.js:1790:23
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/server/actors/targets/window-global.js:1886:20
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+loadTool/<@resource://devtools/client/framework/toolbox.js:2657:14
+loadTool@resource://devtools/client/framework/toolbox.js:2634:12
+selectTool@resource://devtools/client/framework/toolbox.js:2882:17
+open/<@resource://devtools/client/framework/toolbox.js:1038:18
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+_willNavigate@resource://devtools/server/actors/targets/window-global.js:1477:22
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/server/actors/targets/window-global.js:1891:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+loadTool/<@resource://devtools/client/framework/toolbox.js:2657:14
+loadTool@resource://devtools/client/framework/toolbox.js:2634:12
+selectTool@resource://devtools/client/framework/toolbox.js:2882:17
+open/<@resource://devtools/client/framework/toolbox.js:1038:18
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+_navigate@resource://devtools/server/actors/targets/window-global.js:1536:24
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/server/actors/targets/window-global.js:1926:27
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+loadTool/<@resource://devtools/client/framework/toolbox.js:2720:14
+loadTool@resource://devtools/client/framework/toolbox.js:2634:12
+selectTool@resource://devtools/client/framework/toolbox.js:2882:17
+open/<@resource://devtools/client/framework/toolbox.js:1038:18
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+_willNavigate@resource://devtools/server/actors/targets/window-global.js:1477:22
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/server/actors/targets/window-global.js:1891:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+loadTool/<@resource://devtools/client/framework/toolbox.js:2720:14
+loadTool@resource://devtools/client/framework/toolbox.js:2634:12
+selectTool@resource://devtools/client/framework/toolbox.js:2882:17
+open/<@resource://devtools/client/framework/toolbox.js:1038:18
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+get originalWindow@resource://devtools/server/actors/targets/window-global.js:494:5
+_docShellToWindow@resource://devtools/server/actors/targets/window-global.js:1033:7
+_docShellsToWindows/<@resource://devtools/server/actors/targets/window-global.js:1053:29
+_docShellsToWindows@resource://devtools/server/actors/targets/window-global.js:1053:8
+_notifyDocShellsUpdate@resource://devtools/server/actors/targets/window-global.js:1063:26
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/server/actors/targets/window-global.js:1883:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+_navigate@resource://devtools/server/actors/targets/window-global.js:1536:24
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/server/actors/targets/window-global.js:1926:27
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.onWindowCreated threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+_windowReady@resource://devtools/server/actors/targets/window-global.js:1409:24
+DebuggerProgressListener.prototype.onWindowCreated<@resource://devtools/server/actors/targets/window-global.js:1790:23
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/server/actors/targets/window-global.js:1886:20
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+loadTool/<@resource://devtools/client/framework/toolbox.js:2657:14
+loadTool@resource://devtools/client/framework/toolbox.js:2634:12
+selectTool@resource://devtools/client/framework/toolbox.js:2882:17
+onMouseDown@resource://devtools/client/framework/components/ToolboxTab.js:79:38
+invokeGuardedCallbackImpl@resource://devtools/client/shared/vendor/react-dom.js:74:10
+invokeGuardedCallback@resource://devtools/client/shared/vendor/react-dom.js:111:29
+invokeGuardedCallbackAndCatchFirstError@resource://devtools/client/shared/vendor/react-dom.js:125:25
+executeDispatch@resource://devtools/client/shared/vendor/react-dom.js:346:42
+executeDispatchesInOrder@resource://devtools/client/shared/vendor/react-dom.js:362:22
+executeDispatchesAndRelease@resource://devtools/client/shared/vendor/react-dom.js:462:29
+executeDispatchesAndReleaseTopLevel@resource://devtools/client/shared/vendor/react-dom.js:470:10
+forEachAccumulated@resource://devtools/client/shared/vendor/react-dom.js:444:8
+runEventsInBatch@resource://devtools/client/shared/vendor/react-dom.js:598:21
+runExtractedEventsInBatch@resource://devtools/client/shared/vendor/react-dom.js:606:19
+handleTopLevel@resource://devtools/client/shared/vendor/react-dom.js:4272:30
+batchedUpdates$1@resource://devtools/client/shared/vendor/react-dom.js:15752:12
+batchedUpdates@resource://devtools/client/shared/vendor/react-dom.js:1882:12
+dispatchEvent@resource://devtools/client/shared/vendor/react-dom.js:4351:19
+interactiveUpdates$1/<@resource://devtools/client/shared/vendor/react-dom.js:15803:14
+unstable_runWithPriority@resource://devtools/client/shared/vendor/react.js:617:12
+interactiveUpdates$1@resource://devtools/client/shared/vendor/react-dom.js:15802:12
+interactiveUpdates@resource://devtools/client/shared/vendor/react-dom.js:1901:10
+dispatchInteractiveEvent@resource://devtools/client/shared/vendor/react-dom.js:4328:21
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+_willNavigate@resource://devtools/server/actors/targets/window-global.js:1477:22
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/server/actors/targets/window-global.js:1891:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+loadTool/<@resource://devtools/client/framework/toolbox.js:2657:14
+loadTool@resource://devtools/client/framework/toolbox.js:2634:12
+selectTool@resource://devtools/client/framework/toolbox.js:2882:17
+onMouseDown@resource://devtools/client/framework/components/ToolboxTab.js:79:38
+invokeGuardedCallbackImpl@resource://devtools/client/shared/vendor/react-dom.js:74:10
+invokeGuardedCallback@resource://devtools/client/shared/vendor/react-dom.js:111:29
+invokeGuardedCallbackAndCatchFirstError@resource://devtools/client/shared/vendor/react-dom.js:125:25
+executeDispatch@resource://devtools/client/shared/vendor/react-dom.js:346:42
+executeDispatchesInOrder@resource://devtools/client/shared/vendor/react-dom.js:362:22
+executeDispatchesAndRelease@resource://devtools/client/shared/vendor/react-dom.js:462:29
+executeDispatchesAndReleaseTopLevel@resource://devtools/client/shared/vendor/react-dom.js:470:10
+forEachAccumulated@resource://devtools/client/shared/vendor/react-dom.js:444:8
+runEventsInBatch@resource://devtools/client/shared/vendor/react-dom.js:598:21
+runExtractedEventsInBatch@resource://devtools/client/shared/vendor/react-dom.js:606:19
+handleTopLevel@resource://devtools/client/shared/vendor/react-dom.js:4272:30
+batchedUpdates$1@resource://devtools/client/shared/vendor/react-dom.js:15752:12
+batchedUpdates@resource://devtools/client/shared/vendor/react-dom.js:1882:12
+dispatchEvent@resource://devtools/client/shared/vendor/react-dom.js:4351:19
+interactiveUpdates$1/<@resource://devtools/client/shared/vendor/react-dom.js:15803:14
+unstable_runWithPriority@resource://devtools/client/shared/vendor/react.js:617:12
+interactiveUpdates$1@resource://devtools/client/shared/vendor/react-dom.js:15802:12
+interactiveUpdates@resource://devtools/client/shared/vendor/react-dom.js:1901:10
+dispatchInteractiveEvent@resource://devtools/client/shared/vendor/react-dom.js:4328:21
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+_navigate@resource://devtools/server/actors/targets/window-global.js:1536:24
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/server/actors/targets/window-global.js:1926:27
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+loadTool/<@resource://devtools/client/framework/toolbox.js:2720:14
+loadTool@resource://devtools/client/framework/toolbox.js:2634:12
+selectTool@resource://devtools/client/framework/toolbox.js:2882:17
+onMouseDown@resource://devtools/client/framework/components/ToolboxTab.js:79:38
+invokeGuardedCallbackImpl@resource://devtools/client/shared/vendor/react-dom.js:74:10
+invokeGuardedCallback@resource://devtools/client/shared/vendor/react-dom.js:111:29
+invokeGuardedCallbackAndCatchFirstError@resource://devtools/client/shared/vendor/react-dom.js:125:25
+executeDispatch@resource://devtools/client/shared/vendor/react-dom.js:346:42
+executeDispatchesInOrder@resource://devtools/client/shared/vendor/react-dom.js:362:22
+executeDispatchesAndRelease@resource://devtools/client/shared/vendor/react-dom.js:462:29
+executeDispatchesAndReleaseTopLevel@resource://devtools/client/shared/vendor/react-dom.js:470:10
+forEachAccumulated@resource://devtools/client/shared/vendor/react-dom.js:444:8
+runEventsInBatch@resource://devtools/client/shared/vendor/react-dom.js:598:21
+runExtractedEventsInBatch@resource://devtools/client/shared/vendor/react-dom.js:606:19
+handleTopLevel@resource://devtools/client/shared/vendor/react-dom.js:4272:30
+batchedUpdates$1@resource://devtools/client/shared/vendor/react-dom.js:15752:12
+batchedUpdates@resource://devtools/client/shared/vendor/react-dom.js:1882:12
+dispatchEvent@resource://devtools/client/shared/vendor/react-dom.js:4351:19
+interactiveUpdates$1/<@resource://devtools/client/shared/vendor/react-dom.js:15803:14
+unstable_runWithPriority@resource://devtools/client/shared/vendor/react.js:617:12
+interactiveUpdates$1@resource://devtools/client/shared/vendor/react-dom.js:15802:12
+interactiveUpdates@resource://devtools/client/shared/vendor/react-dom.js:1901:10
+dispatchInteractiveEvent@resource://devtools/client/shared/vendor/react-dom.js:4328:21
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+_willNavigate@resource://devtools/server/actors/targets/window-global.js:1477:22
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/server/actors/targets/window-global.js:1891:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+loadTool/<@resource://devtools/client/framework/toolbox.js:2720:14
+loadTool@resource://devtools/client/framework/toolbox.js:2634:12
+selectTool@resource://devtools/client/framework/toolbox.js:2882:17
+onMouseDown@resource://devtools/client/framework/components/ToolboxTab.js:79:38
+invokeGuardedCallbackImpl@resource://devtools/client/shared/vendor/react-dom.js:74:10
+invokeGuardedCallback@resource://devtools/client/shared/vendor/react-dom.js:111:29
+invokeGuardedCallbackAndCatchFirstError@resource://devtools/client/shared/vendor/react-dom.js:125:25
+executeDispatch@resource://devtools/client/shared/vendor/react-dom.js:346:42
+executeDispatchesInOrder@resource://devtools/client/shared/vendor/react-dom.js:362:22
+executeDispatchesAndRelease@resource://devtools/client/shared/vendor/react-dom.js:462:29
+executeDispatchesAndReleaseTopLevel@resource://devtools/client/shared/vendor/react-dom.js:470:10
+forEachAccumulated@resource://devtools/client/shared/vendor/react-dom.js:444:8
+runEventsInBatch@resource://devtools/client/shared/vendor/react-dom.js:598:21
+runExtractedEventsInBatch@resource://devtools/client/shared/vendor/react-dom.js:606:19
+handleTopLevel@resource://devtools/client/shared/vendor/react-dom.js:4272:30
+batchedUpdates$1@resource://devtools/client/shared/vendor/react-dom.js:15752:12
+batchedUpdates@resource://devtools/client/shared/vendor/react-dom.js:1882:12
+dispatchEvent@resource://devtools/client/shared/vendor/react-dom.js:4351:19
+interactiveUpdates$1/<@resource://devtools/client/shared/vendor/react-dom.js:15803:14
+unstable_runWithPriority@resource://devtools/client/shared/vendor/react.js:617:12
+interactiveUpdates$1@resource://devtools/client/shared/vendor/react-dom.js:15802:12
+interactiveUpdates@resource://devtools/client/shared/vendor/react-dom.js:1901:10
+dispatchInteractiveEvent@resource://devtools/client/shared/vendor/react-dom.js:4328:21
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+get originalWindow@resource://devtools/server/actors/targets/window-global.js:494:5
+_docShellToWindow@resource://devtools/server/actors/targets/window-global.js:1033:7
+_docShellsToWindows/<@resource://devtools/server/actors/targets/window-global.js:1053:29
+_docShellsToWindows@resource://devtools/server/actors/targets/window-global.js:1053:8
+_notifyDocShellsUpdate@resource://devtools/server/actors/targets/window-global.js:1063:26
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/server/actors/targets/window-global.js:1883:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.onWindowCreated threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+_windowReady@resource://devtools/server/actors/targets/window-global.js:1409:24
+DebuggerProgressListener.prototype.onWindowCreated<@resource://devtools/server/actors/targets/window-global.js:1790:23
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/server/actors/targets/window-global.js:1886:20
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+_initMarkupView@resource://devtools/client/inspector/inspector.js:394:23
+onRootNodeAvailable@resource://devtools/client/inspector/inspector.js:372:18
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+_willNavigate@resource://devtools/server/actors/targets/window-global.js:1477:22
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/server/actors/targets/window-global.js:1891:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+_initMarkupView@resource://devtools/client/inspector/inspector.js:394:23
+onRootNodeAvailable@resource://devtools/client/inspector/inspector.js:372:18
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+_navigate@resource://devtools/server/actors/targets/window-global.js:1536:24
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/server/actors/targets/window-global.js:1926:27
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+_initMarkupView@resource://devtools/client/inspector/inspector.js:403:25
+onRootNodeAvailable@resource://devtools/client/inspector/inspector.js:372:18
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+_willNavigate@resource://devtools/server/actors/targets/window-global.js:1477:22
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/server/actors/targets/window-global.js:1891:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+_initMarkupView@resource://devtools/client/inspector/inspector.js:403:25
+onRootNodeAvailable@resource://devtools/client/inspector/inspector.js:372:18
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+get originalWindow@resource://devtools/server/actors/targets/window-global.js:494:5
+_docShellToWindow@resource://devtools/server/actors/targets/window-global.js:1033:7
+_docShellsToWindows/<@resource://devtools/server/actors/targets/window-global.js:1053:29
+_docShellsToWindows@resource://devtools/server/actors/targets/window-global.js:1053:8
+_notifyDocShellsUpdate@resource://devtools/server/actors/targets/window-global.js:1063:26
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/server/actors/targets/window-global.js:1883:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 420, column: 0
+console.error: ({})
+console.error: (new TypeError("this.transport is null", "resource://devtools/server/devtools-server-connection.js", 99))
+TypeError: this.transport is null: send@resource://devtools/server/devtools-server-connection.js:99:5
+_sendEvent@resource://devtools/shared/protocol/Actor.js:72:15
+initialize/<@resource://devtools/shared/protocol/Actor.js:46:16
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+_notifyDocShellDestroy@resource://devtools/server/actors/targets/window-global.js:1088:10
+_onDocShellDestroy@resource://devtools/server/actors/targets/window-global.js:968:10
+parentProcessTargetPrototype.observe@resource://devtools/server/actors/targets/parent-process.js:140:10
+
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 420: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]
+console.error: (new TypeError("this.transport is null", "resource://devtools/server/devtools-server-connection.js", 99))
+TypeError: this.transport is null: send@resource://devtools/server/devtools-server-connection.js:99:5
+_sendEvent@resource://devtools/shared/protocol/Actor.js:72:15
+initialize/<@resource://devtools/shared/protocol/Actor.js:46:16
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+_notifyDocShellDestroy@resource://devtools/server/actors/targets/window-global.js:1088:10
+_onDocShellDestroy@resource://devtools/server/actors/targets/window-global.js:968:10
+parentProcessTargetPrototype.observe@resource://devtools/server/actors/targets/parent-process.js:140:10
+
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 420: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]
+console.error: (new TypeError("this.transport is null", "resource://devtools/server/devtools-server-connection.js", 99))
+TypeError: this.transport is null: send@resource://devtools/server/devtools-server-connection.js:99:5
+_sendEvent@resource://devtools/shared/protocol/Actor.js:72:15
+initialize/<@resource://devtools/shared/protocol/Actor.js:46:16
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+_notifyDocShellDestroy@resource://devtools/server/actors/targets/window-global.js:1088:10
+_onDocShellDestroy@resource://devtools/server/actors/targets/window-global.js:968:10
+observe@resource://devtools/server/actors/targets/window-global.js:931:12
+parentProcessTargetPrototype.observe@resource://devtools/server/actors/targets/parent-process.js:130:45
+
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 420: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]
+console.error: (new TypeError("this.transport is null", "resource://devtools/server/devtools-server-connection.js", 99))
+TypeError: this.transport is null: send@resource://devtools/server/devtools-server-connection.js:99:5
+_sendEvent@resource://devtools/shared/protocol/Actor.js:72:15
+initialize/<@resource://devtools/shared/protocol/Actor.js:46:16
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+_notifyDocShellDestroy@resource://devtools/server/actors/targets/window-global.js:1088:10
+_onDocShellDestroy@resource://devtools/server/actors/targets/window-global.js:968:10
+observe@resource://devtools/server/actors/targets/window-global.js:931:12
+parentProcessTargetPrototype.observe@resource://devtools/server/actors/targets/parent-process.js:130:45
+
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 420: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]
+console.error: (new TypeError("this.transport is null", "resource://devtools/server/devtools-server-connection.js", 99))
+TypeError: this.transport is null: send@resource://devtools/server/devtools-server-connection.js:99:5
+_sendEvent@resource://devtools/shared/protocol/Actor.js:72:15
+initialize/<@resource://devtools/shared/protocol/Actor.js:46:16
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+_notifyDocShellDestroy@resource://devtools/server/actors/targets/window-global.js:1088:10
+_onDocShellDestroy@resource://devtools/server/actors/targets/window-global.js:968:10
+observe@resource://devtools/server/actors/targets/window-global.js:931:12
+parentProcessTargetPrototype.observe@resource://devtools/server/actors/targets/parent-process.js:130:45
+
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 420: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]
+console.error: (new TypeError("this.transport is null", "resource://devtools/server/devtools-server-connection.js", 99))
+TypeError: this.transport is null: send@resource://devtools/server/devtools-server-connection.js:99:5
+_sendEvent@resource://devtools/shared/protocol/Actor.js:72:15
+initialize/<@resource://devtools/shared/protocol/Actor.js:46:16
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+_notifyDocShellDestroy@resource://devtools/server/actors/targets/window-global.js:1088:10
+_onDocShellDestroy@resource://devtools/server/actors/targets/window-global.js:968:10
+observe@resource://devtools/server/actors/targets/window-global.js:931:12
+parentProcessTargetPrototype.observe@resource://devtools/server/actors/targets/parent-process.js:130:45
+
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 420: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]
+console.error: (new TypeError("topBrowsingContext is null", "resource://devtools/server/actors/watcher/browsing-context-helpers.jsm", 352))
+Handler function DebuggerProgressListener.prototype.observe threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+_windowDestroyed@resource://devtools/server/actors/targets/window-global.js:1443:24
+DebuggerProgressListener.prototype.observe<@resource://devtools/server/actors/targets/window-global.js:1835:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.observe threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+_windowDestroyed@resource://devtools/server/actors/targets/window-global.js:1443:24
+DebuggerProgressListener.prototype.observe<@resource://devtools/server/actors/targets/window-global.js:1835:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.observe threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+_windowDestroyed@resource://devtools/server/actors/targets/window-global.js:1443:24
+DebuggerProgressListener.prototype.observe<@resource://devtools/server/actors/targets/window-global.js:1835:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.observe threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+_windowDestroyed@resource://devtools/server/actors/targets/window-global.js:1443:24
+DebuggerProgressListener.prototype.observe<@resource://devtools/server/actors/targets/window-global.js:1835:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 420, column: 0
+console.error: ({})
+console.error: (new TypeError("this.transport is null", "resource://devtools/server/devtools-server-connection.js", 99))
+TypeError: this.transport is null: send@resource://devtools/server/devtools-server-connection.js:99:5
+_sendEvent@resource://devtools/shared/protocol/Actor.js:72:15
+initialize/<@resource://devtools/shared/protocol/Actor.js:46:16
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+_notifyDocShellDestroy@resource://devtools/server/actors/targets/window-global.js:1088:10
+_onDocShellDestroy@resource://devtools/server/actors/targets/window-global.js:968:10
+parentProcessTargetPrototype.observe@resource://devtools/server/actors/targets/parent-process.js:140:10
+
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 420: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]
+console.error: (new TypeError("this.transport is null", "resource://devtools/server/devtools-server-connection.js", 99))
+TypeError: this.transport is null: send@resource://devtools/server/devtools-server-connection.js:99:5
+_sendEvent@resource://devtools/shared/protocol/Actor.js:72:15
+initialize/<@resource://devtools/shared/protocol/Actor.js:46:16
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+_notifyDocShellDestroy@resource://devtools/server/actors/targets/window-global.js:1088:10
+_onDocShellDestroy@resource://devtools/server/actors/targets/window-global.js:968:10
+parentProcessTargetPrototype.observe@resource://devtools/server/actors/targets/parent-process.js:140:10
+
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 420: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+_windowReady@resource://devtools/server/actors/targets/window-global.js:1409:24
+watch@resource://devtools/server/actors/targets/window-global.js:1684:25
+_onDocShellCreated/<@resource://devtools/server/actors/targets/window-global.js:954:32
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.onWindowCreated threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+_windowReady@resource://devtools/server/actors/targets/window-global.js:1409:24
+DebuggerProgressListener.prototype.onWindowCreated<@resource://devtools/server/actors/targets/window-global.js:1790:23
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/server/actors/targets/window-global.js:1886:20
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+_willNavigate@resource://devtools/server/actors/targets/window-global.js:1477:22
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/server/actors/targets/window-global.js:1891:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+get originalWindow@resource://devtools/server/actors/targets/window-global.js:494:5
+_docShellToWindow@resource://devtools/server/actors/targets/window-global.js:1033:7
+_docShellsToWindows/<@resource://devtools/server/actors/targets/window-global.js:1053:29
+_docShellsToWindows@resource://devtools/server/actors/targets/window-global.js:1053:8
+_notifyDocShellsUpdate@resource://devtools/server/actors/targets/window-global.js:1063:26
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/server/actors/targets/window-global.js:1883:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+_navigate@resource://devtools/server/actors/targets/window-global.js:1536:24
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/server/actors/targets/window-global.js:1926:27
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.onStateChange threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+get originalWindow@resource://devtools/server/actors/targets/window-global.js:494:5
+_docShellToWindow@resource://devtools/server/actors/targets/window-global.js:1033:7
+_docShellsToWindows/<@resource://devtools/server/actors/targets/window-global.js:1053:29
+_docShellsToWindows@resource://devtools/server/actors/targets/window-global.js:1053:8
+_notifyDocShellsUpdate@resource://devtools/server/actors/targets/window-global.js:1063:26
+DebuggerProgressListener.prototype.onStateChange<@resource://devtools/server/actors/targets/window-global.js:1883:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 420, column: 0
+console.error: ({})
+Handler function DebuggerProgressListener.prototype.onWindowCreated threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 420"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:420:5
+_windowReady@resource://devtools/server/actors/targets/window-global.js:1409:24
+DebuggerProgressListener.prototype.onWindowCreated<@resource://devtools/server/actors/targets/window-global.js:1790:23
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 420, column: 0
+console.error: ({})
+console.error: (new TypeError("this.transport is null", "resource://devtools/server/devtools-server-connection.js", 99))
+TypeError: this.transport is null: send@resource://devtools/server/devtools-server-connection.js:99:5
+_sendEvent@resource://devtools/shared/protocol/Actor.js:72:15
+initialize/<@resource://devtools/shared/protocol/Actor.js:46:16
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+_notifyDocShellDestroy@resource://devtools/server/actors/targets/window-global.js:1088:10
+_onDocShellDestroy@resource://devtools/server/actors/targets/window-global.js:968:10
+parentProcessTargetPrototype.observe@resource://devtools/server/actors/targets/parent-process.js:140:10
+
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 420: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]
+console.error: (new TypeError("this.transport is null", "resource://devtools/server/devtools-server-connection.js", 99))
+TypeError: this.transport is null: send@resource://devtools/server/devtools-server-connection.js:99:5
+_sendEvent@resource://devtools/shared/protocol/Actor.js:72:15
+initialize/<@resource://devtools/shared/protocol/Actor.js:46:16
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+_notifyDocShellDestroy@resource://devtools/server/actors/targets/window-global.js:1088:10
+_onDocShellDestroy@resource://devtools/server/actors/targets/window-global.js:968:10
+parentProcessTargetPrototype.observe@resource://devtools/server/actors/targets/parent-process.js:140:10
+
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 420: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]
+1649813168952	Sync.ErrorHandler	ERROR	Sync encountered a login error
+1649814008536	Sync.ErrorHandler	ERROR	Sync encountered a login error
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: NotFoundError: Could not move source file(/var/folders/9q/lpwrq5l50g30h13lqz5lfr3m0000gn/T/rust_mozprofilew4pLX8/bookmarkbackups/bookmarks-2022-04-12_11_3d26XHN1qB02s23rVuvAwA==.jsonlz4) because it does not exist
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+console.error: (new TypeError("this.transport is null", "resource://devtools/server/devtools-server-connection.js", 99))
+TypeError: this.transport is null: send@resource://devtools/server/devtools-server-connection.js:99:5
+_sendEvent@resource://devtools/shared/protocol/Actor.js:72:15
+initialize/<@resource://devtools/shared/protocol/Actor.js:46:16
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+_notifyDocShellDestroy@resource://devtools/server/actors/targets/window-global.js:1088:10
+_onDocShellDestroy@resource://devtools/server/actors/targets/window-global.js:968:10
+parentProcessTargetPrototype.observe@resource://devtools/server/actors/targets/parent-process.js:140:10
+shutdown@resource://gre/modules/ExtensionParent.jsm:1159:29
+release@resource://gre/modules/ExtensionParent.jsm:1286:20
+_releaseBrowser@resource://gre/modules/ExtensionParent.jsm:1338:18
+shutdown@resource://gre/modules/ExtensionParent.jsm:1331:12
+shutdown@chrome://extensions/content/parent/ext-backgroundPage.js:106:11
+onShutdown@chrome://extensions/content/parent/ext-backgroundPage.js:358:23
+ExtensionAPI/<@resource://gre/modules/ExtensionCommon.jsm:351:14
+wrapper@resource://gre/modules/ExtensionCommon.jsm:295:14
+emit@resource://gre/modules/ExtensionCommon.jsm:322:32
+emit@resource://gre/modules/Extension.jsm:2316:25
+shutdown@resource://gre/modules/Extension.jsm:3030:10
+shutdown@resource://gre/modules/Extension.jsm:2042:39
+callBootstrapMethod@resource://gre/modules/addons/XPIProvider.jsm:1848:33
+_shutdown@resource://gre/modules/addons/XPIProvider.jsm:1981:17
+observe@resource://gre/modules/AsyncShutdown.jsm:575:16
+
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 420: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]
+1649866533934	Marionette	INFO	Stopped listening on port 59775
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+console.error: (new TypeError("this.transport is null", "resource://devtools/server/devtools-server-connection.js", 99))
+TypeError: this.transport is null: send@resource://devtools/server/devtools-server-connection.js:99:5
+_sendEvent@resource://devtools/shared/protocol/Actor.js:72:15
+initialize/<@resource://devtools/shared/protocol/Actor.js:46:16
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+_notifyDocShellDestroy@resource://devtools/server/actors/targets/window-global.js:1088:10
+_onDocShellDestroy@resource://devtools/server/actors/targets/window-global.js:968:10
+parentProcessTargetPrototype.observe@resource://devtools/server/actors/targets/parent-process.js:140:10
+
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 420: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
